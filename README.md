@@ -1,16 +1,26 @@
-### Hi there 👋
+## Olá 👋
 
-<!--
-**gabrielisboa/gabrielisboa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Biografia
+#### Sou o Gabriel, tenho 25 e estou no processo para redesenhar minha carreira. 
+#### No momento um dev em formação com foco de aprendizado em Full Stack.
 
-Here are some ideas to get you started:
+## Aprendizado
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+## Contato
+
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/gabriel-lisboa-26456a20b/)
+
+
+
+
+## Projetos
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielisboa&repo=maratona-explorer
+)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielisboa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielisboa&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
