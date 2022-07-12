@@ -21,4 +21,4 @@
 
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/gabriel-lisboa-26456a20b/)
 
-[<img src='https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white' alt='email' height='30'>](http://mailto:gabriel85a@hotmail.com)
+#### 📧 gabriel85a@hotmail.com
