@@ -1,17 +1,17 @@
-### OLÁ 👋
+### HELLO 👋
 
-##### Sou o Gabriel, tenho 25 anos e estou reconstruindo minha carreira.
-#### Atualmente um dev de Front End iniciante.
+##### I'm Gabriel, I'm 25 years old and I'm rebuilding my career.
+#### Currently a rookie Front End dev.
 
-### UM POUCO MAIS SOBRE MIM 😀
+### A LITTLE MORE ABOUT ME 😀
 
-##### Após obter a graduação em enfermagem em 2020 pela Universidade Federal do Rio Grande do Sul, a conclusão de dois cursos de pós-graduação e diversas experiências de trabalho nessa grande área profissional, percebi que meu caminho poderia estar em outro local, que até então não havia sido apresentado para mim.
+##### After obtaining a degree in nursing in 2020 from the Federal University of Rio Grande do Sul, the completion of two postgraduate courses and several work experiences in this great professional area, I realized that my path could be elsewhere , which until then had not been presented to me.
 
-#### Em 2022 percebi que meus objetivos eram outros, a liberdade profissional e a troca de conhecimentos que eu almejava não seria correspondida na área em que obtive minha graduação, foi então que optei por uma repaginada na minha carreira e fui atrás de conhecimentos sobre desenvolvimento, principalmente na área de web.
+#### In 2022 I realized that my goals were different, the professional freedom and the exchange of knowledge that I wanted would not be matched in the area in which I obtained my degree, it was then that I opted for a revamped career and went after knowledge about development, mainly in the web area.
 
-### ATUALMENTE 📅
+### CURRENTLY 📅
 
-##### Estou matriculado no Curso Técnico em Informática para Web do Colégio Estadual Protásio Alves, além disso, para aprimorar minhas skills executo diversos projetos online que você pode conferir diretamente no meu github. 
+##### I am enrolled in the Technical Course in Computer Science for the Web at Colégio Estadual Protásio Alves, in addition, to improve my skills I run several online projects that you can check directly on my github.
 
 ### APLICAÇÕES
 
